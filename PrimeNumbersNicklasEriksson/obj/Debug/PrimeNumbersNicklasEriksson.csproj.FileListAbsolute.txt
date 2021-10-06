@@ -1,0 +1,7 @@
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\bin\Debug\PrimeNumbersNicklasEriksson.exe.config
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\bin\Debug\PrimeNumbersNicklasEriksson.exe
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\bin\Debug\PrimeNumbersNicklasEriksson.pdb
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\obj\Debug\PrimeNumbersNicklasEriksson.csprojAssemblyReference.cache
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\obj\Debug\PrimeNumbersNicklasEriksson.csproj.CoreCompileInputs.cache
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\obj\Debug\PrimeNumbersNicklasEriksson.exe
+C:\Users\NicklasEriksson\source\repos\PrimeNumbersNicklasEriksson\PrimeNumbersNicklasEriksson\obj\Debug\PrimeNumbersNicklasEriksson.pdb
